@@ -17,16 +17,10 @@ Backend-focused Software Engineer with a strong emphasis on Python, ERP systems 
 - Python
 - JS
 
-**Frameworks & Tools**
-- Odoo
-- FastAPI / Django (depending on project)
-- PostgreSQL
--  Svelt Vue.Js
-
 **Concepts**
 - API Design (REST)
-- Data Modeling
 - ERP system
+- Data Modeling
 - Scalable System Design
 
 ## 📌 Current Focus
@@ -35,22 +29,10 @@ Backend-focused Software Engineer with a strong emphasis on Python, ERP systems 
 - Improving system design & scalability skills
 - Creating tools to help developers and businesses (e.g. CV optimization app)
 
-
-## 🤝 Working Style
-
-- Direct collaboration with stakeholders
-- Iterative development (build → feedback → improve)
-- Focus on delivering business value, not just code
-
-## 📫 Contact
-
-- LinkedIn: https://www.linkedin.com/in/remitoudic/
-- Email: (optional)
-- GitHub: https://github.com/remitoudic
-
----
-
 ## ⚡ Philosophy
 
 > Good software is not just built — it’s shaped by real needs, clear thinking, and continuous iteration.
 
+## 📫 Contact
+
+- LinkedIn: https://www.linkedin.com/in/remitoudic/
