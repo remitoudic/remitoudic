@@ -26,7 +26,7 @@ Backend-focused Software Engineer with a strong emphasis on Python, ERP systems 
 **Concepts**
 - API Design (REST)
 - Data Modeling
-- Performance Optimization
+- ERP system
 - Scalable System Design
 
 ## 📌 Current Focus
