@@ -8,7 +8,7 @@ Backend-focused Software Engineer with a strong emphasis on Python, ERP systems 
 - 🧠 Focused on backend systems, APIs, and data-intensive applications
 - ⚙️ Experienced with Odoo (custom modules, integrations, automation)
 - 🤖 Exploring AI-driven product development
-- 🌍 Working in English and German (C1)
+- 🌍 Working in English and German (C1) or French (Nativ) 
 
 ## 🧩 What I Do
 
@@ -22,14 +22,13 @@ Backend-focused Software Engineer with a strong emphasis on Python, ERP systems 
 
 **Languages**
 - Python
-- SQL
+- JS
 
 **Frameworks & Tools**
 - Odoo
 - FastAPI / Django (depending on project)
 - PostgreSQL
-- Git / GitLab
-- Docker (basic usage)
+-  Svelt Vue.Js
 
 **Concepts**
 - API Design (REST)
@@ -39,16 +38,10 @@ Backend-focused Software Engineer with a strong emphasis on Python, ERP systems 
 
 ## 📌 Current Focus
 
-- Building independent projects around AI
+- Building independent projects around AI and Odoo ERP system
 - Improving system design & scalability skills
 - Creating tools to help developers and businesses (e.g. CV optimization app)
 
-## 📂 Featured Work
-
-> (Add your best repositories here)
-
-- 🔹 `project-name` – Short description of what it does and the value it provides
-- 🔹 `project-name` – Highlight technical challenge or business impact
 
 ## 🤝 Working Style
 
@@ -58,9 +51,9 @@ Backend-focused Software Engineer with a strong emphasis on Python, ERP systems 
 
 ## 📫 Contact
 
-- LinkedIn: (add link)
+- LinkedIn: https://www.linkedin.com/in/remitoudic/
 - Email: (optional)
-- GitHub: https://github.com/your-username
+- GitHub: https://github.com/remitoudic
 
 ---
 
