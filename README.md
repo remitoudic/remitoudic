@@ -17,12 +17,6 @@ Backend-focused Software Engineer with a strong emphasis on Python, ERP systems 
 - Python
 - JS
 
-**Concepts**
-- API Design (REST)
-- ERP system
-- Data Modeling
-- Scalable System Design
-
 ## 📌 Current Focus
 
 - Building independent projects around AI and Odoo ERP system
