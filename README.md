@@ -22,4 +22,6 @@ Backend-focused Software Engineer with a strong emphasis on Python, ERP systems 
 
 ## 📫 Contact
 
-- LinkedIn: https://www.linkedin.com/in/remitoudic/
+- LinkedIn: https://www.linkedin.com/in/remitoudic
+- https://www.malt.com/profile/remitoudic
+
