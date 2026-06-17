@@ -8,7 +8,7 @@ Backend-focused Software Engineer with a strong emphasis on Python, ERP systems 
 - 🧠 Focused on backend systems, APIs, and data-intensive applications
 - ⚙️ Experienced with Odoo (custom modules, integrations, automation)
 - 🤖 Exploring AI-driven product development
-- 🌍 Working in English and German (C1) or French (Nativ) 
+- 🌍 Working in English (C1) and German (C1) or French (Nativ) 
 
 ## 📌 Current Focus
 
