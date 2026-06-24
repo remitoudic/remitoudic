@@ -14,7 +14,7 @@ Backend-focused Software Engineer with a strong emphasis on Python, ERP systems 
 
 - Building independent projects around AI and Odoo ERP system
 - Improving system design & scalability skills
-- Creating tools to help developers and businesses (e.g. CV optimization app)
+- Creating tools to help developers and businesses
 
 ## ⚡ Philosophy
 
